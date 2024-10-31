@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitOut")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67065733280faa99f954dedb9d82fc548942770c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitOut")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitOut")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

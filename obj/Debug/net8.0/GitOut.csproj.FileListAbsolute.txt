@@ -30,3 +30,4 @@ C:\Users\Administrator\Source\Repos\GitOut\obj\Debug\net8.0\refint\GitOut.dll
 C:\Users\Administrator\Source\Repos\GitOut\obj\Debug\net8.0\GitOut.pdb
 C:\Users\Administrator\Source\Repos\GitOut\obj\Debug\net8.0\GitOut.genruntimeconfig.cache
 C:\Users\Administrator\Source\Repos\GitOut\obj\Debug\net8.0\ref\GitOut.dll
+C:\Users\Administrator\Source\Repos\GitOut\obj\Debug\net8.0\GitOut.sourcelink.json
